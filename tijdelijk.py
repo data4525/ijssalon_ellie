@@ -1,4 +1,1 @@
-smaak_een = "3"
-smaak_twee = "4"
-smaak_drie = "5"
-print 
+mijn_dictionary = {"aardbei" :"3", "vanille" : "4", "chocolade" : "5"}
