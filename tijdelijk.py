@@ -1,3 +1,4 @@
-mijn_smaak = "3"
-mijn_smaak = "4"
-mijn smaak = "5"
+smaak_een = "3"
+smaak_twee = "4"
+smaak_drie = "5"
+print 
