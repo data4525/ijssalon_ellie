@@ -1,1 +1,1 @@
-aanbieding = "aardbei"
+reclame_tekst = ["Vandaag in de aanbieding: vanille-ijs, 1 liter-slechts €<1>"]
