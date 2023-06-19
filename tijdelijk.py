@@ -1,2 +1,2 @@
-mijn_aanbieding= {"aardbei,* 0.8"}
+mijn_aanbieding= {"aardbei" :  "aardbei*0.8"}
 print (mijn_aanbieding)
