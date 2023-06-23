@@ -1,3 +1,3 @@
-reclame_tekst = ("Vandaag in de aanbieding: vanille-ijs, 1 liter-slechts € <aanbieding>")
-aanbieding = "2 euro"
-print(f"Vandaag in de aanbieding: vanille-ijs, 1 liter-slechts {aanbieding}.")
+reclame_tekst = f"Vandaag in de aanbieding: vanille-ijs, 1 liter-slechts € {aanbieding}"
+reclame_tekst2 = reclame_tekst[:63]
+print(reclame_tekst2)
