@@ -16,6 +16,10 @@ reclame_tekst4 = reclame_tekst3.split()
 
 for el in reclame_tekst4:
     if len(el) > 4:
-        print(el.upper())
+     print (el.upper())    
     else:
         print(el.lower())
+
+reclame_tekst4 ["Vandaag in de aanbieding","Vanille-ijs","1 Liter","- slechts","€ 2.40"]
+
+
