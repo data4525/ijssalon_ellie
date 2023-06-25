@@ -20,7 +20,5 @@ for el in reclame_tekst4:
     else:
         print(el.lower())
 
-reclame_tekst4 = ["Vandaag in de aanbieding:", "Vanille-ijs","Liter"," slechts"]
-print (reclame_tekst4)
-
-
+el = ["Vandaag in de aanbieding:", "Vanille-ijs","Liter"," slechts"]
+print(el)
