@@ -19,6 +19,3 @@ for el in reclame_tekst4:
      print (el.upper())    
     else:
         print(el.lower())
-
-el = ["Vandaag in de aanbieding:", "Vanille-ijs","Liter"," slechts"]
-print(el)
