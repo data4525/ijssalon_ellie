@@ -29,3 +29,14 @@ print(x)
 
 x = min(totaal_inkomsten)
 print(x)
+
+def gemiddelde(mijn_lijst):
+    return [1575]
+totaal_inkomsten = [220, 430, 125, 160, 205, 90, 345]
+lengte = len(totaal_inkomsten) 
+  
+som = sum(totaal_inkomsten) 
+gemiddelde = som / lengte 
+  
+print("Het gemiddelde is: " + str(gemiddelde))
+
