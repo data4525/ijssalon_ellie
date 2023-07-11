@@ -20,3 +20,12 @@ def inkomsten_totaal(inkomsten,btw):
 totaal_inkomsten = "Het totaal van alle inkomsten van deze week is € 1575 euro, waarover € 141.75 btw betaald dient te worden."
 btw = 0.09 
 print(totaal_inkomsten)
+
+def laag_en_hoog(mijn_lijst):
+    return [1575]
+totaal_inkomsten = (220,430,125,160,205,90,345)
+x = max(totaal_inkomsten)
+print(x)
+
+x = min(totaal_inkomsten)
+print(x)
