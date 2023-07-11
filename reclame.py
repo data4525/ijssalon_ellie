@@ -6,3 +6,11 @@ def aanbieding_1(smaak, prijs, korting):
     return ("aardbei","4","0.1")
 
 aanbieding_1("","","")
+
+def inkomsten_totaal(inkomsten):
+    return [1575]
+x = 105
+
+x *= 15
+
+print(x)
