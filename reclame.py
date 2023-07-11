@@ -54,3 +54,17 @@ print(x)
 x = min(lijst_1)
 print(x)
 
+def combinatie(invoer_lijst_2):
+    return 'korte lijst'
+korte_lijst = [0],[1]
+x = max(korte_lijst)
+print(x)
+
+x = min(korte_lijst)
+print(x)
+
+
+
+
+    
+
