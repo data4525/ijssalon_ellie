@@ -40,3 +40,9 @@ gemiddelde = som / lengte
   
 print("Het gemiddelde is: " + str(gemiddelde))
 
+def gemiddelde(mijn_lijst):
+    return [1575]
+gemiddelde_inkomsten = "De gemiddelde inkomsten deze week zijn € 225 euro."
+print(gemiddelde_inkomsten)
+
+
