@@ -17,6 +17,6 @@ print(x)
 
 def inkomsten_totaal(inkomsten,btw):
     return [1575]
-totaal_inkomsten = "Het totaal van alle inkomsten van deze week is € 1575 euro, waarover 9% btw betaald dient te worden."
+totaal_inkomsten = "Het totaal van alle inkomsten van deze week is € 1575 euro, waarover € 141.75 btw betaald dient te worden."
 btw = 0.09 
 print(totaal_inkomsten)
