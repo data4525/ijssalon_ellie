@@ -45,4 +45,12 @@ def gemiddelde(mijn_lijst):
 gemiddelde_inkomsten = "De gemiddelde inkomsten deze week zijn € 225 euro."
 print(gemiddelde_inkomsten)
 
+def meervoudig(invoer_lijst):
+    return [10,5,3,2,1,2,9]
+lijst_1 = (10,5,3,2,1,2,9)
+x = max(lijst_1)
+print(x)
+
+x = min(lijst_1)
+print(x)
 
